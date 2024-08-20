@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: darkgreen;
+}
+#tables{
+    background-color: lightblue;
+}
+h2{
+    color: coral;
+}
+.page-center{
+    text-align: center;
+}
+table{
+    background-color: rgb(167, 181, 196);
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+}
